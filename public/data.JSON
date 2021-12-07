@@ -1,0 +1,109 @@
+[{
+        "id": 1,
+        "img": "./toy.jpg",
+        "title": "Toy Story 3",
+        "director": "Salima",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 50000,
+        "ticketPrice": 100
+    },
+    {
+        "id": 2,
+        "img": "./panda.jpg",
+        "title": "Kung Fu Panda",
+        "director": "Nabila",
+        "cast": "Johnny Depp",
+        "totalView": 40000,
+        "ticketPrice": 150
+    },
+    {
+        "id": 3,
+        "img": "./inside.jpg",
+        "title": "Inside Out",
+        "director": "Saima",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 70000,
+        "ticketPrice": 100
+    },
+    {
+        "id": 4,
+        "img": "./moana.jpg",
+        "title": "Moana",
+        "director": "Subah",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 80000,
+        "ticketPrice": 130
+    },
+    {
+        "id": 5,
+        "img": "./tinitn.jpg",
+        "title": "Adventure of Tintin",
+        "director": "Wahid",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 100000,
+        "ticketPrice": 180
+    },
+    {
+        "id": 6,
+        "img": "./kubo.jpg",
+        "title": "Kubo",
+        "director": "Yukii",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 50000,
+        "ticketPrice": 100
+    },
+    {
+        "id": 7,
+        "img": "./coco.jpeg",
+        "title": "Coco",
+        "director": "John Kabir",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 120000,
+        "ticketPrice": 140
+    },
+    {
+        "id": 8,
+        "img": "./rio.jpg",
+        "title": "Rio 2",
+        "director": "Tahsan Khan",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 30000,
+        "ticketPrice": 110
+    },
+    {
+        "id": 9,
+        "img": "./rango.jpg",
+        "title": "Rango",
+        "director": "Pritom Hasan",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 10500,
+        "ticketPrice": 100
+    },
+    {
+        "id": 10,
+        "img": "./aladdin.jpg",
+        "title": "Aladdin",
+        "director": "Nuhash Humayun",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 55000,
+        "ticketPrice": 90
+    },
+    {
+        "id": 11,
+        "img": "./grave.jpg",
+        "title": "Grave of the fireflies",
+        "director": "Samresh",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 150000,
+        "ticketPrice": 200
+    },
+    {
+        "id": 12,
+        "img": "./kora.jpeg",
+        "title": "Koraline",
+        "director": "Kazi Nazrul",
+        "cast": "Tom Cruise, katy Holmes",
+        "totalView": 46000,
+        "ticketPrice": 120
+    }
+]

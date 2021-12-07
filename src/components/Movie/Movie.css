@@ -1,0 +1,21 @@
+.card {
+    height: 420px;
+    width: 300px;
+    border: 3px solid gray;
+    background-image: linear-gradient(to right, rgb(219, 109, 97), rgb(238, 189, 170));
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.card img {
+    border-radius: 50%;
+}
+
+.card button {
+    background-color: rgb(238, 151, 238);
+    padding: 10px;
+    border-radius: 15px;
+    width: 150px;
+    border: 1px solid red;
+}

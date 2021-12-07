@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 5px;
+    padding: 10px;
+    border-top: 3px solid lightseagreen;
+}
+
+.movie-poster {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    border-left: 3px solid lightseagreen;
+}

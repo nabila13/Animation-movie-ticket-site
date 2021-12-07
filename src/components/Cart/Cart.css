@@ -1,0 +1,11 @@
+.cart-bg {
+    padding: 10px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    text-align: left;
+    background-image: linear-gradient(to right, rgb(219, 109, 97), rgb(238, 189, 170));
+}
+
+.cart-bg li {
+    list-style: none;
+}
